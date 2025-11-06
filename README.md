@@ -10,7 +10,7 @@
 
 Passionate about technology and currently enjoying a career transition into **Data Analytics** 🎯  
 
-🧭 Currently working in the **purchasing department** of a food retail company, but looking for **new challenges** 💪  
+🧭 Currently working in the **environmental field**, but looking for new challenges, but looking for **new challenges** 💪  
 
 📚 Learning and practicing **SQL** and **Python**, while exploring the amazing **Microsoft tools**.  
 
