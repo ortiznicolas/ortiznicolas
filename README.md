@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NicolasOrtiz/NicolasOrtiz/main/banner-github-nicolas.png" alt="Nicolas Ortiz — Data Analyst Banner" width="1000">
+</p>
+
 # 👋 Hi there, my name is Nicolás Ortiz
 ### Junior Data Analyst with solid analytical and problem-solving skills. Experienced in data visualization, basic statistical analysis, and reporting using tools like Python, SQL, and Tableau. Enthusiastic about transforming data into actionable insights.
 
