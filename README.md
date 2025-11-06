@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NicolasOrtiz/NicolasOrtiz/main/banner-github-nicolas.png" alt="Nicolas Ortiz — Data Analyst Banner" width="1000">
+  <img src="https://github.com/ortiznicolas/ortiznicolas/blob/main/Nicol%C3%A1s%20Ortiz.png" alt="Nicolas Ortiz — Data Analyst Banner" width="1000">
 </p>
 
 # 👋 Hi there, my name is Nicolás Ortiz
